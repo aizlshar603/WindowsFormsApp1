@@ -30,7 +30,7 @@ namespace WindowsFormsApp1
             state2label.BackColor = Color.DarkRed;
             Refresh();
 
-            //change output message and flash
+            //change output message and flash dfhhuu
             outputLabel.Text = "Meltdown";
 
             outputLabel.BackColor = Color.DarkRed;
